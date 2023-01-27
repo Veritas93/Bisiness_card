@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<business_card>
+  <first_name>Сергей</first_name>
+  <second_name>Владимирович</second_name>
+  <last_name>Костин</last_name>
+  <phone>+7 943 100-30-43</phone>
+  <email>ivan.popov@mail.ru</email>
+  <skills>Начинающий программист на Ruby</skills>
+</business_card>
